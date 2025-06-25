@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.author       = { "Jusapy Technologies PVT LTD" => "support@juspay.in" }
 
     s.platform     = :ios, '12.0'
-    s.source       = { :git => "https://bitbucket.juspay.net/scm/~selvam.s_juspay.in/hyper-wechat-ios.git"}  
+    s.source       = { :git => "https://github.com/balaganesh-juspay/hyper-wechat-ios.git"}  
     s.dependency 'WechatOpenSDK' 
     s.dependency 'HyperSDK'
     s.source_files = 'Sources/**/*.{h,m}'
